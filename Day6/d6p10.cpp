@@ -7,6 +7,6 @@ int main(){
 
     string name="Sajan";
     reverse(name.begin(),name.end());
-    cout << name;
+    cout << "Reversed String : "<<name; 
     return 0;
 }
