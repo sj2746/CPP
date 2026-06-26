@@ -12,3 +12,14 @@ int main(){
     }
     return 0;
 }
+
+/*
+OUTPUT:
+Descreasing Right Triangle :
+ *  *  *  *  * 
+ *  *  *  * 
+ *  *  * 
+ *  * 
+ * 
+ 
+ */
