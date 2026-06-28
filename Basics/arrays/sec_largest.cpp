@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int arr[5]={67,90,45,88,14};
-    int n=5,largest=arr[0],secLarge=arr[0];
+    int n=5,largest=-1,secLarge=-1;
     for(int i=0;i<n;i++){
         if(arr[i]>largest){
             secLarge=largest;
