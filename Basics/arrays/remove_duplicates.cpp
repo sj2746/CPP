@@ -11,8 +11,7 @@ int main(){
             j++;
         }
     }
-    int nums=j;
-    for(int i=0;i<nums;i++){
+    for(int i=0;i<j;i++){
         cout<<arr[i]<<" ";
     }
     return 0;
